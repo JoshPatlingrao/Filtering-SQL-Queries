@@ -21,7 +21,7 @@ It was recently discovered that a potential security incident has occurred after
   <img src="https://github.com/user-attachments/assets/e0554d68-792c-4d56-b392-c21471de0d58">
 
   <p align="center">
-    _Figure 1_
+    _Figure 1: Failed after hours login attempts from 'log_in_attempts' dataset_
   </p>
 </p>
 
