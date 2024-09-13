@@ -21,7 +21,7 @@ It was recently discovered that a potential security incident has occurred after
   <img src="https://github.com/user-attachments/assets/e0554d68-792c-4d56-b392-c21471de0d58">
 
   <p align="center">
-    _Figure 1: Failed after hours login attempts from 'log_in_attempts' dataset_
+    Figure 1: Failed after hours login attempts from 'log_in_attempts' dataset.
   </p>
 </p>
 
@@ -31,6 +31,10 @@ A suspicious event occurred on 2022-05-09. To investigate this event, I need to 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e57f95dc-ce4a-4b5e-8f71-9fd5e60cff48">
+
+  <p align="center">
+    Figure 2: Login attempts from 2022-05-08 to 2022-05-09 from 'log_in_attempts' dataset.
+  </p>
 </p>
 
 ### Retrieve Login Attempts Outside of Mexico
@@ -39,6 +43,10 @@ There has been suspicious activity with login attempts, but the team has determi
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/4674fca4-98df-40fe-b531-66b84feaedf8"> 
+
+  <p align="center">
+    Figure 3: Login attempts not in Mexico from 'log_in_attempts' dataset.
+  </p>
 </p>
 
 ### Retrieve Employees in Marketing
@@ -47,6 +55,10 @@ The team wants to perform security updates on specific employee machines in the 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cafbf0cf-f773-4a68-bc5e-cde855badfe5">
+
+  <p align="center">
+    Figure 4: Employee machines from Marketing department in 'employees' dataset.
+  </p>
 </p>
 
 ### Retrieve Employees in Finance and Sales
@@ -55,6 +67,10 @@ The team now needs to perform a different security update on machines for employ
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/528cc381-d776-4c5e-b81c-5c3c95e6c7d7">
+
+  <p align="center">
+    Figure 5: Employee machines from Finance and Sales department in 'employees' dataset.
+  </p>
 </p>
 
 ### Retrieve All Employees not in IT
@@ -63,6 +79,10 @@ The team needs to make one more update to employee machines. The employees who a
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3448067-23dd-4e24-98d6-89b83c0b436a">
+
+  <p align="center">
+    Figure 6: Employee machines not from IT department in 'employees' dataset.
+  </p>
 </p>
 
 ## Summary
