@@ -1,5 +1,7 @@
 # Filtering-SQL-Queries
 
+This project was facilitated by the Google Cybersecurity Professional Certificate in Coursera. The student was in a scenario where they're currently working to make their organization's system more secure. Their tasks will involve ensuring that the system is safe, investigating all potential security issues, and updating employee computers as needed. The following steps will demonstrate how they use SQL with filters to perform security-related tasks.
+
 ## Objective
 
 ### Skills Learned
@@ -58,3 +60,7 @@ The team needs to make one more update to employee machines. The employees who a
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3448067-23dd-4e24-98d6-89b83c0b436a">
 </p>
+
+## Summary
+
+This project has allowed me to demonstrate my ability to filter through various datasets as described by the parameters. I used the AND, OR and NOT operators to filter for specific information, and used LIKE and Wildcard (%) to filter for patterns. Through the use of these operators I am able to filter and extract specific information out of large datasets.
