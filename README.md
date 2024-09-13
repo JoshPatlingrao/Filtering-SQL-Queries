@@ -19,6 +19,10 @@ It was recently discovered that a potential security incident has occurred after
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e0554d68-792c-4d56-b392-c21471de0d58">
+
+  <p align="center">
+    __Figure 1__
+  </p>
 </p>
 
 ### Retrieve Login Attempts on Specific Dates
