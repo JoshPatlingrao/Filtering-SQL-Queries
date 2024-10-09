@@ -1,8 +1,8 @@
 # Filtering-SQL-Queries
 
-This project was facilitated by the Google Cybersecurity Professional Certificate in Coursera. The student was in a scenario where they're currently working to make their organization's system more secure. Their tasks will involve ensuring that the system is safe, investigating all potential security issues, and updating employee computers as needed. The following steps will demonstrate how they use SQL with filters to perform security-related tasks.
-
 ## Objective
+
+This project was facilitated by the Google Cybersecurity Professional Certificate in Coursera. The student was in a scenario where they're currently working to make their organization's system more secure. Their tasks will involve ensuring that the system is safe, investigating all potential security issues, and updating employee computers as needed. The following steps will demonstrate how they use SQL with filters to perform security-related tasks.
 
 ### Skills Learned
 - Understanding of SQL filters
